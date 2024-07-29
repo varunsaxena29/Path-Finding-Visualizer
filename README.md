@@ -12,12 +12,6 @@ This project visualizes the A* pathfinding algorithm using Pygame. It allows use
 
 ## Usage/Examples
 Run the Visualizer
-
-sh
-Copy code
-python main.py
-Controls
-
 Left Click: Set start, end points, and place obstacles.
 Right Click: Remove obstacles.
 Space Bar: Start the visualization.
@@ -27,12 +21,4 @@ C Key: Clear the grid.
 ## Acknowledgements
 Pygame library documentation
 A* pathfinding algorithm resources
-
-## Installation
-
-**Clone the Repository**
-
-   ```sh
-   git clone https://github.com/varunsaxena29/astar-pathfinding-visualizer.git
-   cd astar-pathfinding-visualizer
     
